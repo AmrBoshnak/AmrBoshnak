@@ -23,8 +23,6 @@
 
 <a href="https://www.facebook.com/profile.php?id=100090154201711" target="_blank"><img src="https://img.shields.io/badge/-Amr%20boshnak-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="[[https://linkedin.com/in/ahmedkhater88](https://www.linkedin.com/in/amr-boshnak-788487288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )](https://www.linkedin.com/in/amr-boshnak-788487288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )" target="_blank"><img src="https://img.shields.io/badge/-Amr%20Boshnak-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-<a href="@Amrboshnak" target="_blank"><img src="https://img.shields.io/badge/-amr%20boshnak-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
